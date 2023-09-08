@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Im a new in bug bounty**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
