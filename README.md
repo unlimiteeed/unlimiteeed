@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , im Benyamin Mohamdian <br>Bug Hunter and Pentester about 2+ years experience<br>Program Language : Python , C++<br>Im Learning more about red Teaming
+Hi , im Benyamin Mohamdian <br>2+ years experience in Web Application Testing<br>Program Language : Python , C++<br>Im Learning more about red Teaming
 
 
 ## 🌐 Socials:
