@@ -1,7 +1,4 @@
 # 💫 About Me
-
-![Sci-Fi City](https://github.com/Abracadabra0x/Abracadabra0x/blob/main/wallpapersden.com_sci-fi-city-4k-futuristic-skyscraper_5120x2871.jpg)
-
 Hello there! I'm Benyamin Mohamdian, a Bug Hunter, Pentester, and Programmer with a relentless curiosity for all things cybersecurity. With over 2 years of dedicated experience in Web Application Testing, I've honed my skills to uncover vulnerabilities and fortify digital infrastructures. My toolkit includes Python, which I wield with precision to craft robust solutions.
 
 ## Skills:
