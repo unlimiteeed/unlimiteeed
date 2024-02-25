@@ -1,6 +1,19 @@
-<img src="https://github.com/Abracadabra0x/Abracadabra0x/blob/main/wallpapersden.com_sci-fi-city-4k-futuristic-skyscraper_5120x2871.jpg" height=10% with=10%>
+# 💫 About Me
 
-# 💫 About Me:
-Hi , im Benyamin Mohamdian <br>Bug Hunter / Pentester / Programer<br>2+ years experience in Web Application Testing<br>Program Language : Python , C++<br>Im Learning more about red Teaming
+![Sci-Fi City](https://github.com/Abracadabra0x/Abracadabra0x/blob/main/wallpapersden.com_sci-fi-city-4k-futuristic-skyscraper_5120x2871.jpg)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/unlimiteeeed.png" alt="TryHackMe">
+Hello there! I'm Benyamin Mohamdian, a Bug Hunter, Pentester, and Programmer with a relentless curiosity for all things cybersecurity. With over 2 years of dedicated experience in Web Application Testing, I've honed my skills to uncover vulnerabilities and fortify digital infrastructures. My toolkit includes Python, which I wield with precision to craft robust solutions.
+
+## Skills:
+- **Web Application Testing**: Proficient in identifying and mitigating vulnerabilities to ensure robust security measures.
+- **Programming Languages**: Experienced in Python and C++, with a knack for crafting efficient and scalable solutions.
+- **Red Teaming**: Passionate about exploring the intricacies of offensive security techniques to enhance defensive strategies.
+
+## Interests:
+- **Cybersecurity**: Constantly exploring new techniques and methodologies to stay ahead in the ever-evolving cybersecurity landscape.
+- **Ethical Hacking**: Enthusiastic about ethical hacking practices and contributing to a safer digital world.
+- **Continuous Learning**: Committed to staying updated with the latest trends and technologies in cybersecurity through ongoing education and hands-on experience.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benyamin-mohamadian-4749372a8/) or check out my latest adventures on [GitHub](https://github.com/Abracadabra0x/Hnews).
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/unlimiteeeed.png)
