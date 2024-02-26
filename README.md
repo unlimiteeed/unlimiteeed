@@ -1,4 +1,4 @@
-![Sci-Fi City](https://github.com/unlimiteeed/unlimiteeed/blob/main/wallpaper.jpg)
+[![Sci-Fi City](https://github.com/unlimiteeed/unlimiteeed/blob/main/wallpaper.jpg)](https://github.com/unlimiteeed/unlimiteeed/blob/main/wallpaper.jpg)
 
 # 💫 About Me
 
@@ -15,6 +15,10 @@ Hello! I'm Benyamin Mohamdian, a passionate Bug Hunter, Pentester, and Programme
 - **Continuous Learning**: Committed to ongoing learning and skill development in the dynamic field of cybersecurity.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m7em7bj3tyo4i2khv7e3mftd34&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31m7em7bj3tyo4i2khv7e3mftd34&redirect=true)
 
+## Tools & Languages:
+[![My Skills](https://skillicons.dev/icons?i=py,bash,js,html,vscode,kali,linux,obsidian,notion,discord)](https://skillicons.dev)
+
+## Connect With Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/benyamin-mohamadian-4749372a8/) to share insights and collaborate on cybersecurity projects, or check out my latest adventures on [GitHub](https://github.com/unlimiteeed/Hnews).
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/unlimiteeeed.png)
